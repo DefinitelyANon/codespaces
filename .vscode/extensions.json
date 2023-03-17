@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "golang.go",
+        "gruntfuggly.todo-tree",
+        "lextudio.restructuredtext",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "ms-python.python",
+        "ms-vscode.cmake-tools",
+        "ms-vscode-remote.remote-containers",
+        "pkief.material-icon-theme",
+        "redhat.vscode-yaml",
+        "trond-snekvik.simple-rst",
+        "vadimcn.vscode-lldb",
+        "xaver.clang-format",
+        "zhuangtongfa.material-theme",
+    ],
+    "unwantedRecommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack"
+    ]
+}
