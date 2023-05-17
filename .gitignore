@@ -1,7 +1,6 @@
-.cache
-build
-src
+/.cache
+/build
 
-.clang-format
-.clangd
-CMakeLists.txt
+/.clang-format
+/.clangd
+/CMakeLists.txt
