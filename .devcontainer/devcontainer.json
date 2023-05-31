@@ -3,5 +3,34 @@
   "features": {
     "ghcr.io/devcontainers/features/go:1": {},
     "ghcr.io/devcontainers/features/python:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "albert.tabout",
+        "alexanderte.dainty-one-dark-pro-vscode",
+        "christian-kohler.path-intellisense",
+        "donjayamanne.githistory",
+        "github.vscode-github-actions",
+        "golang.go",
+        "gruntfuggly.todo-tree",
+        "kevinrose.vsc-python-indent",
+        "lextudio.restructuredtext",
+        "mhutchie.git-graph",
+        "ms-python.python",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "ms-vscode-remote.remote-containers",
+        "lextudio.restructuredtext",
+        "pkief.material-icon-theme",
+        "redhat.vscode-yaml",
+        "revng.llvm-ir",
+        "ritwickdey.liveserver",
+        "trond-snekvik.simple-rst",
+        "twxs.cmake",
+        "vadimcn.vscode-lldb",
+        "xaver.clang-format",
+      ]
+    }
   }
 }
