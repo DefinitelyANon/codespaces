@@ -10,6 +10,7 @@
         "kevinrose.vsc-python-indent",
         "lextudio.restructuredtext",
         "mhutchie.git-graph",
+        "ms-python.black-formatter",
         "ms-python.python",
         "ms-vscode.cmake-tools",
         "ms-vscode.cpptools",
