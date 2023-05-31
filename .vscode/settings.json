@@ -17,4 +17,7 @@
     "redhat.telemetry.enabled": false,
     "workbench.colorTheme": "Dainty – One Dark Pro (chroma 0, lightness 1)",
     "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
 }
