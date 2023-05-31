@@ -1,11 +1,11 @@
 {
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
     "cmake.preferredGenerators": [
         "Ninja",
         "Visual Studio 17 2022",
     ],
-    "[cpp]": {
-        "editor.defaultFormatter": "xaver.clang-format",
-    },
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.fontSize": 13,
@@ -14,6 +14,7 @@
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.autofetch": true,
-    "workbench.colorTheme": "Default Dark Modern",
-    "workbench.iconTheme": "material-icon-theme"
+    "redhat.telemetry.enabled": false,
+    "workbench.colorTheme": "Dainty – One Dark Pro (chroma 0, lightness 1)",
+    "workbench.iconTheme": "material-icon-theme",
 }
